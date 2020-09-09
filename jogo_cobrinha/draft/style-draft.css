@@ -1,0 +1,12 @@
+.reload{
+    font-size: 20px;
+    background-color: rgba(179, 178, 178, 0.596);
+    margin-bottom: 10px;
+    border: 10%;
+    border-radius: 10px;
+}
+
+.contador{
+    color: black;
+}
+

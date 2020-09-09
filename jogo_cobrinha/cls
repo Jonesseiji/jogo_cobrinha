@@ -1,0 +1,41 @@
+[33mcommit 4fb97550d9d57651a8ef2e387fae3fa8fbd9b391[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Wed Sep 9 08:30:50 2020 -0300
+
+    adicionando rascunhos para implementar futuramente
+
+[33mcommit 34e90a0d1c54f5532dba41b005ace5c69563c099[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Wed Sep 9 07:33:05 2020 -0300
+
+    jogo finalizado
+
+[33mcommit de3d20bcf183fb3394c1b643bf427a76dbca33fe[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Wed Sep 9 07:07:01 2020 -0300
+
+    criar comidinha
+
+[33mcommit 9b4f9a1b7356c9ee418390fe5211dc3b7b8d3876[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Tue Sep 8 23:54:00 2020 -0300
+
+    definir direcoes e impedir que a cobrinha suma
+
+[33mcommit 256cf663a58fc6e7d5e55d39972d2b4def157183[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Thu Sep 3 08:59:36 2020 -0300
+
+    definir movimentos da cobrinha
+
+[33mcommit 6f824bef979291952c968816cccc38d164fb8948[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Thu Sep 3 08:47:37 2020 -0300
+
+    criar cobrinha
+
+[33mcommit 85ea7e5b44719ae87c97c9bc9912ebe25848fbae[m
+Author: Jones <jonesseiji@outlook.com>
+Date:   Thu Sep 3 08:42:31 2020 -0300
+
+    criar background
